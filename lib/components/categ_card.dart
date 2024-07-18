@@ -23,9 +23,12 @@ GestureDetector (
         return CategoryView( 
           category: category.categoryName?? '',
         );
-      }));
+      }));    
+
+
+
   },   
-          child:   Padding(
+          child: Padding(
             padding: const EdgeInsets.only(right:12.0 ,top: 12 ,),
             child: Container(
   

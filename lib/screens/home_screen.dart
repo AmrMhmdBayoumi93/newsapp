@@ -131,8 +131,9 @@ CategoryModel(categoryImage: 'images/business3.jpeg', categoryName:'business' ),
               ),
         
 
-
+    
         SliverToBoxAdapter(
+
           child: SizedBox(
                       height: 30),
         ),
@@ -142,6 +143,7 @@ CategoryModel(categoryImage: 'images/business3.jpeg', categoryName:'business' ),
        //   const  NewPostWidget(),
        
            NewsPostBuilderWidget( 
+            
             category: 'general',
            ),
              

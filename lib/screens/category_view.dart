@@ -8,7 +8,7 @@ class CategoryView extends StatelessWidget{
     final String category;
 
   CategoryView({required this.category});
-
+   
   @override
   Widget build(BuildContext context) {
     
@@ -26,7 +26,7 @@ class CategoryView extends StatelessWidget{
       );
 
 
-
+         
 
 
 

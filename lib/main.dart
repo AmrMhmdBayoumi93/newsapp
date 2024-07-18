@@ -12,7 +12,9 @@ runApp(NewsApp());
 
 //NewsService ns =NewsService(Dio());
 //ns.getEgyptGeneralNews();
- 
+
+
+
  
   // or
  // NewsService(Dio()).getEgyptGeneralNews();

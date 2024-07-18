@@ -21,7 +21,7 @@ class CategoryCardWidget extends StatelessWidget {
 
 
         physics: BouncingScrollPhysics(), 
-       scrollDirection: Axis.horizontal,
+           scrollDirection: Axis.horizontal,
        
       
       itemCount:categories.length  ,
